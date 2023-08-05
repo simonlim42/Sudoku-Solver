@@ -1,6 +1,4 @@
-# Sudoku Solver with Depth First Search (Backtracking) on a Constraint Satisfaction Problem
-
-![Sudoku Solver](sudoku-solver-image.png)
+# Sudoku Solver
 
 Sudoku as a Constraint Satisfaction Problem
 ------------------------------------------
